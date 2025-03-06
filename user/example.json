@@ -1,18 +1,18 @@
 {
   "config": {
     "user": {
-      "phone": "15135351053",
-      "password": "Byf20040826"
+      "phone": "18054156759",
+      "password": "Mgy20031208"
     },
     "clockIn": {
-      "mode": "daily",
+      "mode": "custom",
       "location": {
-        "address": "山西省 · 侯马市 · 东高村一区 · 在东高村一区5号楼附近",
-        "latitude": "35.615439",
-        "longitude": "111.299146",
-        "province": "山西省",
-        "city": "侯马市",
-        "area": "东高村一区"
+        "address": "河南省 · 郑州市 · 二七区 · 在联大实业附近",
+        "latitude": "34.727634",
+        "longitude": "113.648108",
+        "province": "河南省",
+        "city": "郑州市",
+        "area": "二七区"
       },
       "imageCount": 0,
       "description": [
@@ -21,9 +21,8 @@
       ],
       "specialClockIn": false,
       "customDays": [
-        1,
-        3,
-        5
+        6,
+        7
       ]
     },
     "reportSettings": {
@@ -85,14 +84,14 @@
   },
   "userInfo": {
     "authType": 2,
-    "expiredTime": 2056545696000,
+    "expiredTime": 2056843046000,
     "gender": 1,
     "headImg": "f005585371b08470a447374c1a8e85c7.png",
     "isAccount": 0,
-    "moguNo": "8259867",
+    "moguNo": "9292799",
     "msgConfig": {},
-    "neteaseImId": "b45f3a3a64de47f481e302a7e9456a6a",
-    "nikeName": "白医凡",
+    "neteaseImId": "22254018934b458c863236c1f323a292",
+    "nikeName": "马国银",
     "orgJson": {
       "classId": "2b173e7deaa69698744756a464795bcd",
       "className": "铁道工程2202",
@@ -105,11 +104,11 @@
       "schoolId": "e0a6220fb7dfe86cb90449643e1363c3",
       "schoolName": "黑龙江交通职业技术学院",
       "snowFlakeId": "1000012",
-      "studentId": "66eaad5a120b2d5dd7806a16e8cbd5f6",
-      "studentNumber": "2022120207",
-      "userName": "白医凡"
+      "studentId": "f5872ef11b548186a9d6814f0ab9cbc8",
+      "studentNumber": "2022120205",
+      "userName": "马国银"
     },
-    "phone": "15135351053",
+    "phone": "18054156759",
     "roleGroup": [
       {
         "currPage": 1,
@@ -128,8 +127,8 @@
     "roleKey": "student",
     "roleLevel": "0",
     "roleName": "学生",
-    "token": "eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJtb2d1ZGluZy11c2VyIiwic3ViIjoie1wibG9naW5UeXBlXCI6XCJhbmRyb2lkXCIsXCJ1c2VySWRcIjoxMDYxNzA0MDV9IiwiYXVkIjoibW9ndWRpbmciLCJleHAiOjIwNTY1NDU2OTYsIm5iZiI6MTc0MDkyNTU5NiwiaWF0IjoxNzQwOTI2NDk2fQ.sbvHVCG4LHdA_1vztWGDIZsrGNTR9D2mxKuaFJFPhEQKwC1PL9EunWewaUXafqrYtcKuaePyy8n0LJZXw1TGHQ",
-    "userId": "106170405",
+    "token": "eyJhbGciOiJIUzUxMiJ9.eyJpc3MiOiJtb2d1ZGluZy11c2VyIiwic3ViIjoie1wibG9naW5UeXBlXCI6XCJhbmRyb2lkXCIsXCJ1c2VySWRcIjoxMDcxNTc5OTV9IiwiYXVkIjoibW9ndWRpbmciLCJleHAiOjIwNTY4NDMwNDYsIm5iZiI6MTc0MTIyMjk0NiwiaWF0IjoxNzQxMjIzODQ2fQ.hZy3uYWuK5Qmx6O1kPF49pBwQ_wm88zlfllaK1nowMFzbQTSjc7NGHkmyVjaCuh0QxASRvLwkaP4hPDN4PhjbA",
+    "userId": "107157995",
     "userType": "student"
   },
   "planInfo": {
